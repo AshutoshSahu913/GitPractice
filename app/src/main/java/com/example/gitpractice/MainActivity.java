@@ -1,8 +1,8 @@
 package com.example.gitpractice;
 
-import android.os.Bundle;
-
 import androidx.appcompat.app.AppCompatActivity;
+
+import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -13,7 +13,8 @@ public class MainActivity extends AppCompatActivity {
 
         System.out.println("This is contented my second commit");
         System.out.println();
-        today is sunday enjoy a day
+
+today is really sunday
 
     }
 }
