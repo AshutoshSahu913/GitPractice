@@ -12,8 +12,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         System.out.println("This is contented my second commit");
+        System.out.println();
 
-        System.out.println("Locale changes");
 
     }
 }
